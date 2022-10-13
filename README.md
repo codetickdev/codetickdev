@@ -1,4 +1,4 @@
-Hi 👋 My name is Code Tick
+Hi 👋 We are Code Tick
 ==========================
 
 Web Developer
@@ -6,11 +6,11 @@ Web Developer
 
 Code Tick is a web design team based in Indonesia, specialized in Laravel, Vue, Tailwind CSS.
 
-* 🌍  I'm based in Indonesia
-* 🖥️  See my portfolio at [Portfolio](http://myapp.dev)
-* ✉️  You can contact me at [codetick](mailto:codetick)
-* 🚀  I'm currently working on [Bimb'Els](http://bimb.com)
-* 🤝  I'm open to collaborating on OSS
+* 🌍  We are based in Indonesia
+* 🖥️  See our portfolio at [Portfolio](http://myapp.dev)
+* ✉️  You can contact us at [codetick](mailto:codetick)
+* 🚀  Currently working on [Bimb'Els](http://bimb.com)
+* 🤝  We are open to collaborating on OSS
 
 <a href="https://www.github.com/codetickdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/codetickdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
