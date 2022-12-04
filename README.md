@@ -6,8 +6,6 @@ About Us
 Code Tick is a web design team based in Indonesia, specialized in Laravel, Vue, Tailwind CSS.
 
 * 🌍  We are based in Indonesia
-* 🖥️  See our portfolio at [Portfolio](http://myapp.dev)
-* ✉️  You can contact us at [codetick](mailto:codetick)
 
 <a href="https://www.github.com/codetickdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/codetickdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
